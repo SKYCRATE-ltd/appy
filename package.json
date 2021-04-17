@@ -1,0 +1,23 @@
+{
+  "name": "appy",
+  "version": "1.0.0",
+  "description": "Make apps! It's a combo of neutralino and gtk.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SKYCRATE-ltd/appy.git"
+  },
+  "author": "Graham Robertson | SKYCRATE ltd",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SKYCRATE-ltd/appy/issues"
+  },
+  "homepage": "https://github.com/SKYCRATE-ltd/appy#readme",
+  "dependencies": {
+    "node-gtk": "^0.8.1"
+  }
+}
